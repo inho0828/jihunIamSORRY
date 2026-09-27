@@ -3,5 +3,5 @@ a seemingly ordinary website that actually triggers a jumpscare once a certain b
 this works well on desktop screens, but it isn't as impactful on mobile</br>
 
 
-https://reemans.github.io/jihunIamSORRY/
+[https://reemans.github.io/jihunIamSORRY/](https://inho0828.github.io/jihunIamSORRY/)
 
